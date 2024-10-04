@@ -1,4 +1,4 @@
-![ex-02](https://github.com/user-attachments/assets/eb62fc35-0275-4973-9164-18bd828872f9)# Ex.No: 2   Matrix Multiplication 
+# Ex.No: 2   Matrix Multiplication 
 
 ### DATE:13-09-2024                                                                            
 ### REGISTER NUMBER : 212221040111
